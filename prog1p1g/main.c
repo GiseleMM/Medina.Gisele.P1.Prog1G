@@ -32,9 +32,11 @@ int main()
 }
 float aplicarAumento(float precio)
 {
-    float Aumento;
-    Aumento= precio+ (precio * 0.5);
-    return Aumento;
+    float aumento;
+
+    aumento=precio+(precio*0.05);
+
+    return aumento;
 }
 int reemplazarCaracteres(char cadena[], int tamanioCadena, char caracterAReemplazar, char caracterQueVaAReemplazar)
 {

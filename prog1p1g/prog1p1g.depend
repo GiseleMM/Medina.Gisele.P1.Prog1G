@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635204119 source:c:\users\1\desktop\medina.gisele.p1.prog.1g\medina.gisele.p1.prog1g\prog1p1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
